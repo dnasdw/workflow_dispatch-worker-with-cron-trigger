@@ -14,5 +14,5 @@ GITHUB_WORKFLOW_FILE_NAME = ""
 GITHUB_BRANCH = ""
 
 [triggers]
-# crons = ["* * * * *"]
-crons = []
+crons = ["* * * * *"]
+# crons = []
