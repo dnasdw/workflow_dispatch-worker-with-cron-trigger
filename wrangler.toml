@@ -1,0 +1,8 @@
+name = "workflow_dispatch-worker-with-cron-trigger"
+type = "javascript"
+
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2022-01-05"
